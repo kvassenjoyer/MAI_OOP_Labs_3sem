@@ -24,8 +24,8 @@ bool is_valid_input(bool is_value_valid) {
 long long lab1_var15(long long divider, long long boundary) {
     /*
     * Вариант 15:
-    * По divider и boundary, найти наибольшее целое число N:
-    * (N % divider == 0) and (N <= boundary) and (N > 0)
+    * По divider>0 и boundary>0, найти наибольшее целое число N:
+    * (N % divider == 0), (N > 0), (N <= boundary)
     */
 
     long long N = boundary - boundary % divider;
