@@ -1,3 +1,23 @@
+# VS Code settings folder
+.vscode/
+
+# Logs
+*.log
+
+# Reports
+*.pdf
+*.docx
+
+# Media
+*.png
+*.jpg
+*.webm
+*.mp4
+*.mkv
+*.mp3
+
+# C++ .gitignore template below
+
 # Prerequisites
 *.d
 
