@@ -1,7 +1,7 @@
 # VS Code settings folder
 .vscode/
 
-# Project build directory
+# Project's build files
 build/*
 
 # Logs

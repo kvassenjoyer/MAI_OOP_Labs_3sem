@@ -18,7 +18,7 @@ int main() {
         std::cin >> boundary;
     } while (is_valid_int_input(boundary >= divider && boundary > 0) == false);
 
-    std::cout << "Answer: " << lab1_var15(divider, boundary);
+    std::cout << "Answer: " << lab1_var15(divider, boundary) << std::endl;
     
     return 0;
 }
