@@ -9,10 +9,10 @@
 Для сборки проектов всех выполненных лабораторных работ, Вам понадобится исполнить следующие команды из корневой папки репозитория `MAI_OOP_Labs_3sem/` :
 
 ```
+mkdir -p build
 cd build
 cmake ..
 make
-sudo make install
 ```
 
 Для сборки проекта лишь N-ой лабораторной  работы, Вам понадобится закомментировать или удалить строки вида 
@@ -48,7 +48,7 @@ sudo make install
 - [Условие (вариант 15)](https://drive.google.com/file/d/1IL5MEZCluRGTYTdhtJik5vJMmG_sDyi9/view?usp=sharing)
 - [Решение](https://github.com/kvassenjoyer/MAI_OOP_Labs_3sem/blob/main/lab1/src/lab1.cpp)
 - [Тесты](https://github.com/kvassenjoyer/MAI_OOP_Labs_3sem/blob/main/lab1/tests/test_lab1.cpp)
-- [Отчет](https://github.com/kvassenjoyer/MAI_OOP_Labs_3sem/blob/main/lab1/report.md)
+- [Отчет](https://github.com/kvassenjoyer/MAI_OOP_Labs_3sem/blob/main/lab1/report_lab1.md)
 
 </details>
 
